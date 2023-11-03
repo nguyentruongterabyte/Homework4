@@ -1,3 +1,8 @@
+"""
+  Họ và tên: Nguyễn Thái Trưởng
+  MSSV     : N20DCCN083
+"""
+
 import numpy as np
 from scipy.fft import fft2, fftshift
 import matplotlib.pyplot as plt
